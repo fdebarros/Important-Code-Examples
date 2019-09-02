@@ -1,0 +1,7 @@
+mvn deploy -DgroupId=--Insert the group ID here (usualy looks like "com.mainrepo.artifact")-- \
+  -DartifactId=--Insert here the artifact Id (usualy looks like "artifact.jar" or other extensions)-- \
+  -Dversion=--Insert here the version of the artifact-- \
+  -Dpackaging=--Insert here the pakcing type of the artifact (example: .jar)-- \
+  -Dfile=--Insert here the path of the file you build (usualy is inside your .M2)-- \
+  -DrepositoryId=--The org repository name--
+  -Durl=--Insert here the binary repository URL--
