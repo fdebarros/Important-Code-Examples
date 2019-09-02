@@ -1,1 +1,1 @@
-The codes are separated in branchs, look for the tecnology and theme inside de branch to find the example.
+The codes are separated in branchs, look for the technology and theme inside the branch to find the example.
