@@ -1,14 +1,14 @@
 # The Code Example Repo
 
-### * - What's the purpose of this repository?*
+### - What's the purpose of this repository?
 
 **Here is the place where you can find and share examples of some codes, (~~obviously~~) but more than a simple example repository, this is a shortcut for you to find exactly the code snippet that you need, saving your time .**
 
-### * - How does it work?*
+###  - How does it work?
 
 **The technology or framework are separated into branches, look for the branch you need and inside you'll find some codes snippets examples. If you can't find the example you need or the technology you're working with don't be afraid to ask us to add it on the branchs. Also if you've found some good examples of something new or some improvement for any example, feel free to share with us. This is above all a community, so please interact with us for mutual grown.**
 
-### * - Alright, i want to share a code i did or found, how can i do it?*
+###  - Alright, i want to share a code i did or found, how can i do it?
 
 **Well ... first things first.
   You need to know somethings:**
