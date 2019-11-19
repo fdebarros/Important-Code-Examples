@@ -18,8 +18,8 @@
  2. **Do not paste proprietary codes from web without authorization.** *(The obvious sometimes need to be said.)*
  
  3. **If you want to share a code snippet from your org or work, AWAYS USE FAKE NAMES, TOKENS AND PASSWORDS. We'll not be responsible if you get fired.**
- 
- 4. **Always try, as far as possible, use the best practices of the programming language or technology in the snippet you're proposing to add.**
+
+4. **Always try, as far as possible, use the best practices of the programming language or technology in the snippet you're proposing to add.**
  
 #### With all clear, click on the link bellow and fill in the issue preset. Always try to fill the most fields you can, it'll easy review and add.
 
